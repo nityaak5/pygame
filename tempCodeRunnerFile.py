@@ -1,0 +1,1 @@
+ self.settings.initialize_dynamic()
